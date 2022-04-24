@@ -24,7 +24,7 @@ const startTime = () => {
   let currentHour = addZero(today.getHours());
   let currentDayName = days[today.getDay()];
   let currentDayNumber = addZero(today.getDate());
-  let currentMonth = addZero(today.getMonth());
+  let currentMonth = addZero(today.getMonth() + 1);
   let currentYear = today.getFullYear();
 
   currentDayTxt.innerHTML = `${currentDayName}`;
