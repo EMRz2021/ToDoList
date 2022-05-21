@@ -1,5 +1,4 @@
 # "ToDo List" app with the Done/Delete Buttons as well as the ability to pick a specific time and date!
-https://emrz2021.github.io/ToDoList/
 
 Languages used: HTML, CSS, and Javascript
 
