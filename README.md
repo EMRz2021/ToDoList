@@ -1,27 +1,34 @@
-# ToDoList
+# "ToDo List" app with the Done/Delete Buttons as well as the ability to pick a specific time and date!
 https://emrz2021.github.io/ToDoList/
 
-My first project ever on GitHub, and it is the usual "ToDo List" app using HTML, CSS, and Javascript, with a Done button, Delete Button , and the possibility to pick a specific time and date!
+Languages used: HTML, CSS, and Javascript
 
-# More details about the Techniques and Skills used (Bold):
+## Techniques and Skills used (more technical details & screenshots below):
+- Dom manipulation (Methods, Properties, Event Listeners)
+- Real time digital clock and Date
+- control Flow
+- Event Listeners
+- Styling with CSS.
+
+## More details about the Techniques and Skills used:
 - Implement a real time digital clock and date constantly using Javascript:
 	- new Date(), and its methods,
 	- setInterval(),
 	- adding "0" to the single numbers.
-- Arrow functions
-- Template Strings
 - Dom manipulation, including:
-	- (.querySelector) method
-	- (.createElement) method
-	- (.appendChild()) method
-	- (.classList.add()) method
-	- (.classList.toggle()) method
-	- (.innerHTML) method
-	- (.innerText) method
-- if & else if statments
-- Ternary operator
+	- .querySelector()
+	- .createElement()
+	- .appendChild()
+	- .classList.add()
+	- .classList.toggle()
+	- .innerHTML
+	- .innerText
 - Event Listeners ("click" & "input" & "keypress" )
-- (.slice()) method
+- Arrow functions
+- if statment & else if statment
+- Ternary operator
+- Template Strings
+- Changing the format and the order of the date and the time using .slice() method
 
 - CSS selectors and properties, including:
 	- CSS Box & Text shadows
@@ -32,9 +39,10 @@ My first project ever on GitHub, and it is the usual "ToDo List" app using HTML,
 	- CSS Positioning
 	- CSS @media rule, when resize the width of the window
 
-- HTML tags (div, p, h1, ul, li, button, span, input(text), input(datetime-local))
-- Classes and IDs
+- HTML Tags, Classes and IDs
 - Icons from (font-awesome) library.
+
+## Some Screenshots
 
 ![Screenshot01](https://user-images.githubusercontent.com/93922346/169599774-cff6fe1e-efff-4d83-bdee-3f1f1b0bd57a.JPG)
 ![Screenshot02](https://user-images.githubusercontent.com/93922346/169599794-d213a752-57ca-4967-8666-8a03ae2cb2ab.JPG)
