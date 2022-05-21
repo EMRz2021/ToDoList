@@ -7,7 +7,6 @@ Languages used: HTML, CSS, and Javascript
 - Dom manipulation (Methods, Properties, Event Listeners)
 - Real time digital clock and Date
 - control Flow
-- Event Listeners
 - Styling with CSS.
 
 ## More details about the Techniques and Skills used:
